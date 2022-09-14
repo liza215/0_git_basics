@@ -4,4 +4,4 @@
 
 Это временный скриптовый файл.
 """
-print("Hello  word")
+print("Hello  world")
